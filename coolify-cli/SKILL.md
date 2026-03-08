@@ -1,5 +1,5 @@
 ---
-name: coolify-cli
+name: coolify-skill
 description: Work with the official Coolify CLI to inspect, configure, and operate Coolify Cloud or self-hosted instances. Use when Codex needs to install or verify `coolify`, configure contexts and API tokens, discover projects/resources/UUIDs, manage applications, services, servers, databases, backups, deployments, or environment variables, or troubleshoot CLI workflows with exact `coolify` commands.
 ---
 
