@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coolify CLI"
+  short_description: "Manage Coolify with the official CLI"
+  default_prompt: "Use $coolify-cli to plan or run a Coolify CLI workflow safely."
